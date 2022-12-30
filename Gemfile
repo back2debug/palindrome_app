@@ -5,6 +5,7 @@ ruby '3.1.2'
 gem 'sinatra', '2.2.0'
 gem 'puma', '5.6.4'
 gem 'rerun', '0.13.1'
+gem 'tmart134_palindrome', '0.1.1'
 
 group :test do 
 	gem 'minitest',		'5.15.0'
