@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '3.1.2'
+ruby '3.2.7'
 
 gem 'sinatra', '4.2.0'
 gem 'puma', '5.6.9'
@@ -12,5 +12,5 @@ group :test do
 	gem 'minitest-reporters', '1.5.0'
 	gem 'rack-test', 	'2.2.0'
 	gem 'rake', 		'13.0.6'
-	gem 'nokogiri', 	'1.18.9'
+	gem 'nokogiri', 	'1.19.1'
 end
