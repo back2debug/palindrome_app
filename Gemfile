@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '3.2.7'
 
 gem 'sinatra', '4.2.0'
-gem 'puma', '5.6.9'
+gem 'puma', '7.2.1'
 gem 'rerun', '0.13.1'
 gem 'tmart134_palindrome', '0.2.1'
 
